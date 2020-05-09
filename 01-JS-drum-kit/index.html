@@ -64,7 +64,12 @@
         if (!audio) return; //stops the function from running
         audio.currentTime = 0; //allows for sound to be played repeatedly
         audio.play();
+        
+        key.classList.add('playing')
     });
+
+    const keys = document.querySelectorAll('.key');
+    keys.forEach(key => key.addEventListener('transitionend', removeTransition));
 
 
 </script>
