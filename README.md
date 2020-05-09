@@ -8,5 +8,5 @@ I have decided to start the JavaScript30 Challenge in order to build on the skil
 # Blog Post
 For each day of the challenge I am writing a corresponding blog post on my expierence.
 
-Day 1- [Post](https://blitzparanoia.github.io/javascript30_challenge)
+Day 1- [JS Drump Kit Post](https://blitzparanoia.github.io/javascript30_challenge)
 
